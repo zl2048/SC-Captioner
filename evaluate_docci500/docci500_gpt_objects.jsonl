@@ -1,0 +1,500 @@
+{"test_01286": ["butterfly", "rocks"]}
+{"test_02941": ["cloud", "building", "water", "city", "sky", "landscape", "horizon"]}
+{"test_00984": ["panel", "pattern", "tile", "letter", "line", "hand", "arrow"]}
+{"test_04134": ["tree", "building", "crane", "rock", "grass", "sign", "fence", "path", "shadow"]}
+{"test_02888": ["cat", "floor"]}
+{"test_00193": ["tree", "bush", "car", "sign", "fence", "shadow", "window", "headlight", "door", "wheel", "taillight", "license plate", "badge", "grass", "pavement", "building", "light", "table", "chair", "plant", "wall", "ceiling", "staircase"]}
+{"test_01651": ["car", "wheel", "tarp", "floor", "stripe", "flag", "logo", "wall", "car"]}
+{"test_04076": ["pole", "cloud", "sky", "flag"]}
+{"test_03437": ["airplane", "light", "vehicle", "building", "grass", "sky", "door", "sign", "window", "pole", "cloud", "antenna", "runway", "chimney"]}
+{"test_01896": ["shirt", "leaves", "rock", "hand", "mantis"]}
+{"test_01034": ["shadow", "wood", "light", "rock", "plant", "mud", "branch", "grass", "leaf", "tree", "soil", "water", "bark", "stump", "twig", "bird"]}
+{"test_00101": ["grille", "headlight", "sign", "taillight", "light", "mirror", "reflection", "ceiling", "wheel", "logo", "window", "floor", "pillar", "car"]}
+{"test_00796": ["switch", "cover", "racket", "wall"]}
+{"test_03439": ["barrier", "tree", "window", "hill", "car", "road", "light", "building", "crane", "pole", "cloud", "roof", "lane", "vehicle", "truck", "billboard", "skyline", "antenna", "sign", "text", "bridge"]}
+{"test_04707": ["path", "beam", "barn", "grass", "sky", "plank", "tree", "window", "gap"]}
+{"test_00987": ["light", "sidewalk", "building", "wall", "curb", "branch", "grass", "foliage", "tree", "hose", "window", "street"]}
+{"test_02419": ["letter", "stone", "railing", "column", "balcony", "roof", "pavement", "panel", "building", "wall", "door", "sign", "window", "pole", "shutter", "car", "lantern"]}
+{"test_02007": ["gate", "roof", "ground", "person", "line", "vehicle", "building", "plane", "hose", "truck", "sign", "window", "number", "tire", "runway"]}
+{"test_01399": ["pipe", "base", "pavement", "grass", "sculpture", "pole"]}
+{"test_00178": ["ground", "pavement", "sidewalk", "rock", "dirt", "pebbles", "sculpture", "edge", "tail"]}
+{"test_00417": ["headlight", "shadow", "sticker", "handle", "light", "pavement", "mirror", "post", "sky", "door", "tree", "wheel", "screw", "window", "stripe", "number", "bus"]}
+{"test_00123": ["writing", "light", "router", "plug", "frame", "wall", "cable"]}
+{"test_04264": ["stalactite", "cave", "rock"]}
+{"test_01632": ["sprinkler", "handle", "light", "panel", "frame", "carpet", "wall", "camera", "door", "ceiling", "vent", "sign", "molding", "floor"]}
+{"test_03267": ["light", "building", "wire", "tree", "sign", "window", "cloud", "umbrella"]}
+{"test_03298": ["plant", "water", "leaf", "tree"]}
+{"test_03201": ["leaf", "stain", "lightning"]}
+{"test_00554": ["branch", "sky", "snow", "tree"]}
+{"test_00333": ["text", "curtain", "shelf", "plug", "object", "wall", "glass", "paper", "car", "reflection", "flag", "window", "brick", "boat"]}
+{"test_03802": ["scratch", "mark", "tape", "rust", "container", "sign", "stain"]}
+{"test_02532": ["building", "bush", "sky", "tree", "flag", "sign", "pole", "cloud", "antenna"]}
+{"test_02487": ["number"]}
+{"test_04164": ["window", "chair", "suitcase", "wheel", "cat", "floor", "curtain"]}
+{"test_00085": ["line", "rock", "plant", "tree", "tunnel", "road"]}
+{"test_03339": ["crystal", "sculpture", "pedestal"]}
+{"test_03282": ["rock", "board", "table", "fence", "rope", "tree", "water", "umbrella", "shadow", "light", "pond", "bush", "structure", "pole", "leaf", "plant", "chair", "fern", "lily", "waterfall", "soil", "stump", "pipe", "fish", "dirt", "foliage", "house", "branch", "sign", "gravel"]}
+{"test_04781": ["moon", "sky", "cloud"]}
+{"test_04219": ["wall", "teapot", "window", "blinds", "mug"]}
+{"test_02196": ["banana", "table"]}
+{"test_04839": ["path", "light", "fish", "plant", "pot", "person", "structure", "tree", "base", "leaf", "stand"]}
+{"test_00293": ["horse", "flower", "reins", "grass", "tree"]}
+{"test_03464": ["gate", "wall", "tree", "window", "light", "building", "pole", "cloud", "cross", "tower", "column", "roof", "plant", "door", "potted plant", "railing", "step", "sky", "vent", "sign", "street"]}
+{"test_01513": ["railing", "roof", "column", "arch", "plant", "flower", "stem", "building", "bush", "branch", "shrub", "door", "log", "tree", "needle", "sign", "window", "leaf"]}
+{"test_02555": ["railing", "path", "building", "bush", "wall", "leaf", "sky", "tree", "river", "water", "cloud"]}
+{"test_04314": ["path", "person", "rock", "mountain", "plant", "frame", "building", "sky", "painting", "tree", "river", "cloud", "bridge"]}
+{"test_04725": ["railing", "ground", "stair", "building", "step", "inflatable", "container", "door", "sign", "window", "pole"]}
+{"test_03835": ["rock", "water", "light", "plant", "shadow", "fish"]}
+{"test_02955": ["door", "glass", "pavement", "roof", "pole", "fence", "tree", "wall", "light", "window", "car", "grass", "road"]}
+{"test_01440": ["handle", "rock", "pavement", "board", "grill", "plant"]}
+{"test_00705": ["screen", "pipe", "spoons", "box", "wall", "shadow", "leg", "table"]}
+{"test_03716": ["arm", "hand", "chair", "rug", "pillow", "curtain", "shirt", "cushion", "cat"]}
+{"test_02900": ["screen", "vent", "button", "icon", "building", "arrow", "tree", "display", "car", "grass", "line"]}
+{"test_02471": ["glass", "brick", "text", "sidewalk", "arrow", "frame", "window", "bar", "paint"]}
+{"test_02615": ["pavement", "pillar", "building", "camera", "tree", "shoe", "statue", "person", "poster", "leg"]}
+{"test_00355": ["door", "panel", "sculpture", "pole", "slabs", "wall", "light", "ground", "grass"]}
+{"test_01771": ["door", "handle", "plant", "wheel", "driveway", "bush", "sidewalk", "curb", "tree", "trashcan", "street", "window", "car", "shadow", "grass"]}
+{"test_02726": ["stone", "roof", "railing", "chime", "branch", "grass", "road", "pavement", "curtain", "lamppost", "lights", "rooster", "tree", "curb", "wall", "car", "chain", "pole", "window"]}
+{"test_00033": ["path", "bush", "gravel", "tree", "sign", "log", "post", "grass"]}
+{"test_02341": ["chair", "stone", "baseboard", "floor", "tile", "wall"]}
+{"test_00567": ["sky", "wheel", "chimney", "fence", "building", "pole", "curb", "tree", "sign", "wire", "car", "grass", "road"]}
+{"test_02027": ["chair", "glass", "roof", "pillow", "floor", "railing", "building", "cushion", "stair", "tree", "carpet", "sofa", "window", "table", "toy"]}
+{"test_01925": ["path", "flower", "tongue", "dog", "leaf", "grass"]}
+{"test_03598": ["block", "path", "hinge", "stone", "panel", "pole", "sign", "tree", "wall", "wood", "mortar", "ground"]}
+{"test_02973": ["chair", "robe", "halo", "lion", "crown", "beard", "star", "face", "snake", "vine", "bird", "eagle", "wings", "book", "man", "ox", "drapery"]}
+{"test_00330": ["sky", "flag", "pole", "building", "sidewalk", "sign", "cloud", "tree", "lamp", "window", "car", "grass", "road"]}
+{"test_01462": ["stand", "microphone", "roof", "amplifier", "grass", "box", "fence", "building", "shed", "tree", "trashcan", "cord", "cable", "speaker", "ground", "chain", "bag", "window"]}
+{"test_01642": ["stairs", "feathers", "wall", "cat", "molding", "wire"]}
+{"test_00150": ["rock", "dog", "leash", "water", "leaf", "twig"]}
+{"test_04963": ["wheel", "grass", "slide", "toy"]}
+{"test_04024": ["floor", "gate", "tile", "fence", "sign", "rail", "street", "wall", "staircase", "light", "plant"]}
+{"test_00441": ["insect", "grid", "pole", "lamp", "surface", "wire"]}
+{"test_00016": ["text", "sign", "fence"]}
+{"test_00010": ["sky", "leaves", "bird", "tree", "branch", "twig"]}
+{"test_04147": ["sky", "roof", "shirt", "board", "fence", "building", "tree", "branch", "post", "sleeve", "goat", "wire"]}
+{"test_04315": ["plate", "slices", "table"]}
+{"test_03219": ["plants", "hydrant", "sidewalk", "crack", "chain", "cover", "grass"]}
+{"test_02486": ["block", "floor"]}
+{"test_02112": ["stick", "door", "microphone", "ceiling", "tuba", "drum", "floor", "guitar", "exit", "coat", "piano", "hat", "chair", "saxophone", "box", "fan", "case", "cushion", "lamp", "bottle", "frame", "wall", "painting", "stand", "light"]}
+{"test_00740": ["leaf", "stick", "turtle", "water"]}
+{"test_01787": ["panel", "wheel", "trailer", "bolt", "cone", "plank", "leaf", "window", "plant", "ground"]}
+{"test_01700": ["leaves", "spider", "branch", "web", "grass"]}
+{"test_02505": ["floor", "card"]}
+{"test_03710": ["sky", "streetlight", "railing", "balcony", "building", "sidewalk", "bush", "tree", "sign", "graffiti", "window", "car", "road"]}
+{"test_04454": ["glass", "pavement", "flower", "brick", "bow", "reflection", "wall", "frame", "leaf", "window"]}
+{"test_03420": ["pavement", "square", "line", "mark", "scratch", "balloon", "paint"]}
+{"test_04371": ["sky", "vine", "structure", "tree", "branch"]}
+{"test_00574": ["shell", "sand", "bird"]}
+{"test_00632": ["onion", "burner", "dial", "pan", "stove", "pattern"]}
+{"test_02073": ["rock", "worm", "soil", "leaf", "plant", "moss"]}
+{"test_04392": ["shrub", "fern", "soil", "branch", "stump", "leaf", "moss", "grass", "twig"]}
+{"test_00068": ["hand", "finger", "sand", "shell"]}
+{"test_04312": ["chair", "sky", "basketball", "bench", "pole", "building", "fence", "tree", "basket", "rope"]}
+{"test_02255": ["door", "ceiling", "panel", "floor", "button", "elevator", "sign", "wall", "display", "pattern", "trim"]}
+{"test_03931": ["ceiling", "panel", "beam", "cover", "lamp", "wall", "light", "shadow", "cord"]}
+{"test_03824": ["mannequin", "branch", "wall", "cat", "window"]}
+{"test_04248": ["cupcake", "box", "sign", "platter", "figure", "grass"]}
+{"test_03814": ["sky", "field", "wheel", "pole", "building", "bush", "tree", "sign", "branch", "leaf", "window", "car", "grass", "road"]}
+{"test_00886": ["sky", "tree", "hill", "cloud", "sign", "grass", "road", "line"]}
+{"test_02791": ["door", "ceiling", "floor", "tree", "wall", "window", "car"]}
+{"test_01711": ["ball", "seat", "net", "bench", "flag", "pole", "fence", "bush", "tree", "lamp", "light", "shadow", "tennis court"]}
+{"test_03353": ["shrub", "building", "construction", "grass", "road", "pavement", "river", "vehicle", "truck", "water", "tree", "barrier", "container", "wire", "walkway", "boat", "equipment", "fence", "dirt", "car", "shadow", "crane", "pole", "sidewalk", "bridge", "person", "window"]}
+{"test_02448": ["bench", "floor", "tile", "wall", "frame", "light", "outlet", "painting"]}
+{"test_00520": ["carpet", "ceiling", "bench", "arch", "tile", "pole", "cover", "book", "sign", "bottle", "statue", "poster", "light", "wall", "rope"]}
+{"test_03458": ["door", "ceiling", "platform", "pipe", "railing", "tile", "reflection", "train", "light", "window"]}
+{"test_03729": ["pavement", "pipe", "turtle", "letter", "sidewalk", "coin", "cloud", "grass", "paint"]}
+{"test_02695": ["crosswalk", "building", "branch", "grass", "lettering", "tree", "sign", "wire", "path", "map", "bush", "curb", "lamp", "pants", "street", "post", "shoes", "bench", "button", "pole", "jacket", "sidewalk", "person", "light"]}
+{"test_01111": ["sky", "flower", "carving", "beam", "candle", "tree", "basket", "leaf", "plant", "chain"]}
+{"test_02133": ["rock", "brick", "railing", "soil", "bush", "step", "tree", "wall", "branch", "plant", "shadow", "grass"]}
+{"test_02644": ["sky", "pole", "camera", "sign", "cloud", "wire"]}
+{"test_00700": ["handle", "corner", "urinal", "pipe", "stickers", "floor", "valve", "wall", "tiles", "graffiti"]}
+{"test_04265": ["sky", "leaves", "branches", "squirrel", "tree", "bark"]}
+{"test_01952": ["pavement", "leaves", "walkway", "wheel", "foliage", "barrel", "trunk", "hub", "tree", "greenery", "cannon", "wall", "branch", "monument", "plaque", "grass"]}
+{"test_00190": ["arm", "hand", "background", "flower", "wave", "boot", "column", "leg", "line"]}
+{"test_00666": ["structure", "leaf", "fence", "bush", "squirrel", "house", "tree", "trampoline", "ground"]}
+{"test_03544": ["ceiling", "flower", "heart", "text", "wall", "graffiti", "dot", "ground", "wire"]}
+{"test_02610": ["chair", "leather", "sign", "wall", "wood", "cable", "horns", "surface"]}
+{"test_02778": ["dirt", "grass", "cricket"]}
+{"test_04700": ["glass", "ceiling", "clouds", "pole", "camera", "reflection", "reflector", "frame", "wall", "light", "window", "mount"]}
+{"test_00346": ["ball", "pillow", "dog", "shelf", "camera", "wood", "wall", "harness"]}
+{"test_00039": ["flower", "streetlight", "air conditioner", "roof", "awning", "truck", "pole", "building", "fence", "tree", "sign", "graffiti", "fire escape", "window", "car"]}
+{"test_03014": ["block", "shadow", "surface", "brick"]}
+{"test_02279": ["leaves", "letters", "sidewalk", "curb", "grass"]}
+{"test_03678": ["plaque", "letter"]}
+{"test_01291": ["screw", "diagram", "text", "valve", "number", "sign", "piston", "spark plug", "wall", "cylinder"]}
+{"test_01795": ["path", "field", "roof", "benches", "trees", "bleachers", "lights", "buildings", "goalposts", "fence", "track", "sidewalk", "scoreboard", "houses", "cars", "shrubs", "grass", "road"]}
+{"test_04663": ["shrub", "roof", "dog", "house", "grass", "road", "door", "tree", "fence", "bush", "curb", "knot", "car", "shadow", "chain", "leash", "pole", "sidewalk", "window"]}
+{"test_01891": ["card", "club", "light", "curtain", "heart", "diamond"]}
+{"test_02508": ["pole", "fence", "sidewalk", "tree", "trashcan", "cloud", "branch", "street", "car", "tower"]}
+{"test_01847": ["squirrel", "leaf", "grass"]}
+{"test_01879": ["chair", "butter", "floor", "blueberry", "plate", "syrup", "pancake", "strawberry", "table"]}
+{"test_04729": ["mulch", "leaves", "rock", "lion", "plants", "bench", "hair", "pants", "ground", "stems", "flowers", "shoe", "man", "bottle", "wall", "woman", "grass", "wire"]}
+{"test_01352": ["bench", "lamppost", "fence", "pole", "curb", "arrow", "tree", "sign", "car", "road"]}
+{"test_02393": ["mirror", "tree", "wall", "vehicles", "car", "grass", "road"]}
+{"test_00590": ["sky", "dashboard", "bush", "tree", "cloud", "car", "road", "line"]}
+{"test_01860": ["sky", "pavement", "factory", "horizon", "beam", "smoke", "building", "pole", "number", "tree", "cloud", "water", "grass", "wire"]}
+{"test_02224": ["sky", "plant", "water", "tree", "branch", "moss", "grass"]}
+{"test_01006": ["sand", "beetle", "shell", "twig", "pebble"]}
+{"test_03050": ["roof", "flower", "text", "foliage", "church", "building", "steeple", "plate", "tree", "wall", "village", "mountain", "knob"]}
+{"test_01822": ["panel", "screw", "handprint", "crack", "wall", "leaf", "plant", "line"]}
+{"test_00262": ["sky", "chair", "pavement", "vehicle", "railing", "pole", "building", "tree", "sign", "cloud", "light", "window", "car", "road"]}
+{"test_03486": ["leaves", "flower", "tree", "branch", "log", "plant", "grass", "rabbit"]}
+{"test_02413": ["handle", "face", "drain", "dispenser", "writing", "cabinet", "drawing", "faucet", "cloud", "wall", "sink", "graffiti"]}
+{"test_00909": ["sky", "walkway", "bird", "pole", "building", "fence", "tree", "chain", "cloud", "rail", "light", "window", "tower", "grass"]}
+{"test_04703": ["flower", "soil", "branch", "cover", "stem", "leaf", "plant", "grass", "twig"]}
+{"test_00685": ["sky", "pillar", "beam", "water", "gravel", "bridge", "plant", "ground", "grass"]}
+{"test_03801": ["corner", "glass", "lion", "decoration", "building", "reflection", "frame", "window", "shield"]}
+{"test_04850": ["fence", "building", "bush", "pole", "tree", "statue", "pyramid", "light", "car", "ground", "road"]}
+{"test_01306": ["sky", "rooftop", "tarp", "fence", "pole", "curb", "tree", "graffiti", "container", "ground", "grass", "bag"]}
+{"test_02400": ["rock", "tree", "manhole", "dirt", "branch", "bark", "graffiti", "leaf", "plant", "grass"]}
+{"test_00487": ["body", "background", "panel", "wheel", "track", "tire", "car", "surface", "pattern"]}
+{"test_02406": ["sky", "tree", "flag", "pole"]}
+{"test_01634": ["dog", "pot", "poster", "counter", "floor", "shelf", "sign", "coat", "cord", "chair", "bed", "box", "basket", "bottle", "wall", "frame", "card", "cabinet", "plant"]}
+{"test_00340": ["handprint", "wall"]}
+{"test_01046": ["leaf", "brick", "twig"]}
+{"test_02897": ["text", "symbol", "shadow"]}
+{"test_01587": ["sky", "roof", "plants", "pole", "fence", "squirrel", "wire"]}
+{"test_00729": ["pipe", "floor", "helmet", "motorcycle", "tire", "person"]}
+{"test_02232": ["door", "handle", "corner", "screw", "stripe", "arrow", "exit", "sign", "frame", "wall", "knob"]}
+{"test_03362": ["sky", "canopy", "hook", "pole", "building", "fence", "lamp", "clock", "wire"]}
+{"test_02975": ["building", "window", "cloud", "sky"]}
+{"test_04556": ["sky", "wheel", "truck", "flag", "fence", "mirror", "runway", "sign", "cloud", "cone", "strap", "tire", "light", "road"]}
+{"test_02602": ["sky", "letter", "water", "pole", "tree", "sign", "branch", "leaf", "bolt", "fish"]}
+{"test_01285": ["railing", "spindle", "stair", "wall", "wood", "post"]}
+{"test_02910": ["text", "fence", "concrete", "sign", "tree", "greenery", "plank", "ground"]}
+{"test_00475": ["dock", "ladder", "pillar", "platform", "railing", "bird", "water", "shadow"]}
+{"test_00884": ["rock", "stone", "brick", "soil", "drawing", "leaf", "plant", "twig"]}
+{"test_04650": ["chair", "ceiling", "curtain", "pipe", "wheel", "floor", "design", "box", "scoreboard", "wall", "light", "socket", "table"]}
+{"test_04871": ["dirt", "grass", "tire"]}
+{"test_03099": ["bench", "step", "pot", "wall", "light", "window", "plant", "ground"]}
+{"test_02374": ["pavement", "leaves", "bench", "pole", "bushes", "sign", "shoe", "wall", "person", "putter", "edge", "hole", "grass", "shadow"]}
+{"test_00636": ["door", "hinge", "floor", "cabinet", "wall", "cat"]}
+{"test_03232": ["railing", "building", "tree", "cloud", "window", "wire"]}
+{"test_01602": ["chair", "court", "sky", "net", "wheel", "fence", "pole", "building", "tree", "light"]}
+{"test_00908": ["switch", "stairs", "railing", "frame", "wall", "light", "post", "painting"]}
+{"test_02498": ["sky", "roof", "fence", "house", "pole", "building", "tree", "sign", "lamp", "branch", "wall", "leaf", "post", "shadow", "wire"]}
+{"test_03998": ["block", "bench", "slide", "tree", "shoe", "plate", "frame", "child", "hole", "grass"]}
+{"test_03714": ["rock", "soil", "branch", "leaf", "moss", "grass"]}
+{"test_01811": ["sky", "dog", "leash", "fence", "house", "pole", "tree", "cloud", "car", "grass"]}
+{"test_03422": ["door", "roof", "wheel", "house", "bush", "curb", "tree", "wall", "light", "window", "car", "gutter", "grass", "road"]}
+{"test_02862": ["hand", "ceiling", "panel", "grid", "letter", "puzzle", "poster"]}
+{"test_04696": ["stick", "water", "reflection", "dirt", "pony", "leaf", "shadow", "toy"]}
+{"test_01756": ["stand", "floor", "rooster", "saddle", "frame", "wall", "plaque", "shadow", "painting"]}
+{"test_01793": ["heart", "text", "leaf", "shadow", "line"]}
+{"test_03157": ["sky", "field", "bush", "sign", "tree", "dirt", "post", "car", "grass"]}
+{"test_01684": ["stone", "skull", "neon", "awning", "crossbones", "lines", "box", "frame", "wall", "window", "blinds"]}
+{"test_04596": ["wing", "clouds"]}
+{"test_02443": ["circle", "engine", "field", "grid", "building", "window", "road"]}
+{"test_04110": ["sky", "water", "bush", "reflection", "tree", "grass"]}
+{"test_02800": ["crosswalk", "roof", "streetcar", "banner", "building", "facade", "door", "line", "wheel", "reflection", "sign", "rail", "wire", "lamp", "signal", "pole", "sidewalk", "person", "light", "window"]}
+{"test_03540": ["door", "baseboard", "fur", "floor", "tile", "string", "paw"]}
+{"test_03070": ["water", "trunk", "tree", "twig", "leaf", "swing", "grass", "rope"]}
+{"test_03556": ["arm", "stick", "character", "text", "drum", "pole", "reflection", "sidewalk", "tree", "parking", "wall", "window", "grass", "road"]}
+{"test_03848": ["door", "body", "panel", "wheel", "truck", "banner", "teeth", "shirt", "hood", "person", "tire", "wire", "logo", "car", "window"]}
+{"test_02011": ["sky", "cloud", "flag", "pole"]}
+{"test_03549": ["handle", "flower", "jar", "button", "wall", "cup", "leaf", "table"]}
+{"test_01179": ["sky", "canvas", "light", "pole", "house", "tree", "cloud", "string", "mountain"]}
+{"test_03707": ["chair", "screen", "ball", "panel", "machine", "seat", "floor", "cord", "display", "carpet", "wall", "light", "counter", "table"]}
+{"test_03288": ["pavement", "ball", "machine", "curb", "stack"]}
+{"test_02020": ["crosswalk", "brick", "building", "pavement", "lamppost", "tree", "manhole", "trashcan", "sign", "stripe", "sewer", "curb", "street", "car", "shadow", "bench", "pole", "sidewalk", "person", "intersection"]}
+{"test_00956": ["rock", "leaves", "soil", "flowers", "branch", "stem", "grass"]}
+{"test_02964": ["door", "tent", "bus", "lights", "bumper", "mirror", "skeleton", "pole", "sign", "headlight", "plate", "window", "ground", "grass", "wire"]}
+{"test_00880": ["rock", "aquarium", "seadragon", "water", "gravel", "plant", "fish"]}
+{"test_03965": ["foliage", "tree", "sign", "column", "graffiti", "road"]}
+{"test_04961": ["book", "ice", "grass"]}
+{"test_02254": ["rock", "bush", "tree", "branch", "plant"]}
+{"test_02976": ["sky", "arm", "rock", "excavator", "forest", "cab", "bucket", "logo", "track", "boom", "tree", "cloud", "window", "ground"]}
+{"test_04396": ["label", "text", "tile", "burner", "bottle", "countertop", "stove"]}
+{"test_01937": ["pavement", "dog", "branch", "leaf", "shadow", "collar"]}
+{"test_04258": ["ceiling", "panel", "pipe", "tile", "beam", "pole", "wall", "wire", "light", "duct", "rope"]}
+{"test_02746": ["butterfly", "flower", "dirt", "stem", "leaf", "grass"]}
+{"test_04316": ["baseboard", "floor", "cord", "wall", "plug", "cat", "remote", "vacuum", "outlet", "collar"]}
+{"test_01105": ["sky", "door", "stone", "streetlight", "railing", "pole", "building", "plaque", "step", "tree", "cloud", "column", "sphere", "window"]}
+{"test_02533": ["path", "leaves", "pavement", "rock", "pole", "sign", "tree", "dirt", "branch", "grass", "base"]}
+{"test_04747": ["sand", "stick", "footprint", "water", "plant", "bubble"]}
+{"test_02323": ["frame", "board", "pins"]}
+{"test_03977": ["door", "brick", "pipe", "wheel", "sidewalk", "motorcycle", "wall", "cover", "graffiti", "shadow", "handlebar", "rope", "road"]}
+{"test_04190": ["text", "leaf", "nail", "fence", "sign", "plank", "container", "grass"]}
+{"test_01744": ["floor", "shoe", "star"]}
+{"test_03116": ["bin", "path", "concrete", "fence", "sign", "post", "plank", "lid", "ground", "grass", "bag"]}
+{"test_03947": ["duck", "path", "platform", "bench", "bin liner", "trunk", "bush", "tree", "trashcan", "ground", "grass", "table"]}
+{"test_04169": ["leaf", "rock", "flower", "pebble"]}
+{"test_03974": ["switch", "owl", "pipe", "pole", "box", "crack", "wall", "wire", "grass", "pattern"]}
+{"test_02078": ["leaves", "sidewalk", "cross", "curb", "dirt", "paint"]}
+{"test_01065": ["ceiling", "clouds", "chandelier", "bird", "sign", "frame", "column", "wall", "light", "painting"]}
+{"test_03630": ["sky", "shrub", "roof", "dog", "chimney", "leash", "house", "tree", "window", "car", "grass"]}
+{"test_01203": ["building", "antenna", "flagpole", "road", "door", "pavement", "wheel", "dashboard", "flag", "windshield", "sign", "hood", "barrier", "steering column", "steering wheel", "seat", "mirror", "box", "tire", "post", "car", "structure", "person", "light", "window"]}
+{"test_01568": ["sky", "roof", "building", "tree", "window", "plant", "tower"]}
+{"test_00019": ["label", "pipe", "connector", "beam", "bird", "box", "window"]}
+{"test_03342": ["leaves", "debris", "platform", "deck", "squirrel", "step", "plank", "shadow"]}
+{"test_04156": ["chair", "door", "ball", "mat", "floor", "leash", "cabinet", "box", "puppy", "cushion", "stool", "wall", "light", "window", "plant", "outlet", "table"]}
+{"test_02582": ["sawdust", "stick", "debris", "pipe", "leaf", "twig"]}
+{"test_04266": ["pavement", "chalk", "drawing", "crack", "leaf"]}
+{"test_03047": ["cat", "clamp", "rug", "wall"]}
+{"test_01845": ["dragonfly", "mosaic", "tile"]}
+{"test_00189": ["face", "pumpkin", "mouth", "teeth", "nose", "eye", "light", "line"]}
+{"test_03573": ["symbol", "vent", "panel", "button", "detector", "light"]}
+{"test_01751": ["light", "silhouette", "wood", "plank"]}
+{"test_02362": ["sand", "disc", "pole", "post", "shadow", "grass"]}
+{"test_04679": ["rock", "light", "platform", "dolphin", "water", "bush", "trunk", "tree", "leaf", "palm"]}
+{"test_00153": ["pavement", "flower", "bucket", "curb", "dirt", "branch", "leaf", "plant", "grass", "road"]}
+{"test_00559": ["insect", "bench", "floor", "plank", "hole"]}
+{"test_01968": ["panel", "floor", "truck", "wall", "car"]}
+{"test_00864": ["flower", "bee", "bud", "stem", "leaf"]}
+{"test_02868": ["chalk", "sidewalk", "crack", "leaf", "twig"]}
+{"test_02759": ["sky", "bush", "tree", "cloud", "branch", "grass", "wire"]}
+{"test_00307": ["floor", "teddy bear", "page", "key", "scarf", "piano"]}
+{"test_00225": ["wheel", "floor", "truck", "banner", "wall"]}
+{"test_03488": ["sky", "mountain", "screen", "gauge", "steering", "line", "text", "dashboard", "button", "fence", "building", "pole", "tree", "leaf", "car", "shadow", "knob"]}
+{"test_00624": ["sky", "boat", "mast", "water", "building", "reflection", "shoreline", "light", "window"]}
+{"test_00733": ["shrub", "banner", "house", "branch", "grass", "line", "sky", "trunk", "sign", "tree", "wire", "path", "street", "car", "pole", "cloud", "person", "leaf", "window"]}
+{"test_04198": ["cross", "wood"]}
+{"test_03758": ["needle", "leaves", "holes", "lizard", "thermometer", "case", "scale", "branch", "stem", "log"]}
+{"test_03090": ["sky", "crane", "chimney", "banner", "bicycle", "pole", "building", "sidewalk", "tree", "bridge", "sign", "cloud", "lamp", "window", "car", "grass", "road"]}
+{"test_02774": ["sky", "leaves", "roof", "stone", "tree", "wall", "droplet"]}
+{"test_04389": ["sky", "sun", "heart", "text", "tree", "cloud", "wall", "shadow", "grass"]}
+{"test_03538": ["dirt", "grass", "bird"]}
+{"test_00388": ["sky", "tree", "cloud", "branch", "stump", "shadow", "grass"]}
+{"test_01314": ["rock", "ground", "paper", "grass"]}
+{"test_02079": ["sky", "pavement", "shrub", "bench", "flag", "water", "building", "tree", "fountain", "lamp", "person", "tower"]}
+{"test_03903": ["door", "ceiling", "screen", "photograph", "trash", "floor", "cabinet", "pot", "bottle", "wall", "plant"]}
+{"test_04168": ["watch", "plate", "banana", "table"]}
+{"test_00332": ["chalk", "pavement", "leaf", "mulch"]}
+{"test_01522": ["chair", "leaves", "stone", "flower", "spider", "pumpkin", "railing", "soil", "skeleton", "rooster", "sign", "wood", "boot", "plant", "leg"]}
+{"test_02043": ["glass", "sconce", "panel", "screw", "lightbulb", "wall"]}
+{"test_01028": ["stand", "glass", "hinge", "surface", "panel", "rack", "section", "card", "wheel", "number", "chip", "slot", "barrier", "light", "rod", "counter", "pattern", "table"]}
+{"test_02321": ["chair", "ceiling", "switch", "wagon", "pipe", "wheel", "support", "rope", "beam", "box", "wall", "plank", "light", "figure", "hat", "chain", "window", "rod"]}
+{"test_00808": ["weed", "rock", "leaves", "dirt", "tire", "wall", "branch", "plant", "grass"]}
+{"test_02116": ["sky", "path", "pipe", "bench", "trailer", "bird", "fence", "building", "tree", "wall", "lamp", "container", "grass"]}
+{"test_02661": ["vase", "sculpture", "shelf", "book"]}
+{"test_03329": ["sky", "water", "tree", "plant", "grass"]}
+{"test_00907": ["rectangle", "text", "tape", "letter", "box", "wall", "whisker", "cat", "pattern", "line"]}
+{"test_03349": ["sky", "shrub", "duck", "plant", "water", "bush", "tree", "bridge", "sign", "hill", "car", "shadow", "grass", "road"]}
+{"test_04881": ["path", "field", "roof", "forest", "lawn", "house", "building", "bush", "tree", "car", "road"]}
+{"test_00239": ["terrain", "cloud", "road", "shadow"]}
+{"test_02530": ["turtle", "curb", "dirt", "branch", "leaf", "plant"]}
+{"test_02491": ["panel", "skull", "dirt", "light", "grass"]}
+{"test_01978": ["sky", "structure", "wires", "pole", "building", "tree", "umbrella", "light"]}
+{"test_01679": ["pallet", "shoe", "grass", "pumpkin"]}
+{"test_01980": ["graffiti", "sidewalk", "plaque", "bicycle"]}
+{"test_03243": ["gourd", "table"]}
+{"test_00457": ["chair", "floor", "stairs", "tree", "umbrella", "branch", "wall", "light", "window", "plant", "ornament", "table"]}
+{"test_04296": ["glass", "block", "panel", "roof", "plant", "text", "sculpture", "board", "building", "gravel", "sign", "fencing", "cone", "post", "car", "window"]}
+{"test_01461": ["crosswalk", "building", "lane", "road", "sky", "vehicle", "truck", "tree", "sign", "barrier", "wire", "bus", "fence", "billboard", "street", "car", "shadow", "structure", "barricade", "pole", "sidewalk", "light", "van", "intersection"]}
+{"test_04519": ["rock", "stump", "tree", "branch", "tire", "log", "ground"]}
+{"test_02811": ["court", "screw", "board", "fence"]}
+{"test_00482": ["pavement", "leaves", "bricks", "tree", "sign", "wall", "car", "mural"]}
+{"test_01686": ["sky", "pedestal", "wall", "statue", "inscription", "shadow"]}
+{"test_04402": ["path", "shrub", "deer", "forest", "pole", "tree", "grass"]}
+{"test_00777": ["sky", "stone", "sculpture", "bush", "tree", "grass"]}
+{"test_02090": ["rock", "mulch", "pole", "bush", "tree", "sign", "branch", "light", "plant", "wire"]}
+{"test_03065": ["ball", "shelf", "wall", "pattern"]}
+{"test_02716": ["bark", "tree", "sign", "dirt", "leaf", "grass", "twig"]}
+{"test_03874": ["ripple", "flow", "rock", "stone", "wave", "current", "bank", "water", "ground", "reflection", "shore", "stream", "surface"]}
+{"test_04465": ["debris", "pipe", "screw", "bird", "crack", "dirt", "wall", "ground"]}
+{"test_04414": ["avocado", "egg", "table", "onion"]}
+{"test_01277": ["mannequin", "lion", "glasses", "railing", "shirt", "tile", "water", "dolphin", "step", "pool", "post", "fountain", "wall", "light", "dress", "bubble", "window", "shutter"]}
+{"test_04619": ["chair", "screen", "car", "floor", "building", "tree", "sign", "sofa", "light", "window", "plant", "table"]}
+{"test_00688": ["microphone", "stand", "outlet", "panel", "bracket", "camera", "sign", "wall", "wood", "cable", "light", "cord"]}
+{"test_01370": ["leaves", "pillar", "wheel", "railing", "fence", "house", "box", "curb", "tree", "mirror", "grille", "step", "number", "plate", "window", "car", "grass", "road"]}
+{"test_00279": ["leaves", "net", "box", "stake", "hydrant", "concrete", "fence", "dirt", "grass", "wire"]}
+{"test_04644": ["leaf", "bark", "branch", "cat", "ground", "grass", "twig"]}
+{"test_02385": ["stem", "leaf", "flower", "soil"]}
+{"test_00990": ["sky", "roof", "building", "bush", "tree", "sign", "tower", "grass"]}
+{"test_03126": ["scooter", "backpack", "hedge", "water", "building", "bush", "step", "tree", "sign", "fence", "statue", "fountain", "person", "light", "window"]}
+{"test_01734": ["rock", "sign", "tree", "cable", "branch", "ground", "shadow"]}
+{"test_00076": ["inflatable", "roof", "star", "flag", "pole", "house", "sidewalk", "bush", "sign", "tree", "window", "plant", "grass", "road", "base"]}
+{"test_02723": ["hand", "chair", "dog", "floor", "leash", "wall", "cable", "magnifying glass"]}
+{"test_03463": ["string", "panel", "sign", "plastic"]}
+{"test_02253": ["sky", "fence", "pole", "tree", "paint"]}
+{"test_00510": ["contour", "shape", "pattern"]}
+{"test_01826": ["brick", "building", "cover", "outline", "pattern", "door", "section", "pipe", "edge", "curb", "step", "wall", "ground", "chain", "painting", "background", "texture", "meter", "bolt"]}
+{"test_02639": ["root", "water", "tree", "raccoon", "branch", "moss"]}
+{"test_01527": ["door", "handle", "panel", "object", "latch", "pipe", "vehicle", "tree", "tire", "wall", "lamp", "leaf", "window", "ground"]}
+{"test_01612": ["reflection", "railing", "reptile", "water"]}
+{"test_01683": ["wheel", "building", "grille", "headlight", "hood", "wall", "bars", "window", "car", "ground", "shadow"]}
+{"test_01619": ["fly", "window", "sign", "letter"]}
+{"test_02537": ["pallet", "pumpkin", "straw", "ground", "shadow", "shavings"]}
+{"test_01301": ["handle", "scooter", "pipe", "wheel", "tile", "bicycle", "box", "brake", "wall", "tire", "grass"]}
+{"test_04047": ["chair", "door", "handle", "tile", "wall", "painting", "table"]}
+{"test_04368": ["figurine", "vase", "book", "sofa", "magazine", "table"]}
+{"test_04502": ["drink", "glass", "mango", "cabinet", "banana", "tile", "wall", "countertop", "knob"]}
+{"test_03823": ["sculpture", "stack", "umbrella", "column", "door", "ceiling", "floor", "tree", "chair", "handle", "wall", "frame", "table", "baseboard", "platform", "pane", "light", "window", "plant"]}
+{"test_01307": ["bubbles", "rock", "water", "diver", "fish"]}
+{"test_01294": ["rock", "shrub", "water", "reflection", "tree", "dirt", "branch", "grass"]}
+{"test_00001": ["rock", "leaves", "algae", "debris", "turtle", "water", "reflection", "bark", "branch", "log", "grass"]}
+{"test_01047": ["sky", "vent", "roof", "text", "building", "sign", "cloud", "wall", "antenna", "light", "window", "shadow"]}
+{"test_03206": ["branch", "feather", "leaf", "ground", "grass"]}
+{"test_01161": ["glass", "food", "knife", "plate", "fork", "basket", "cup", "table"]}
+{"test_03134": ["corn", "soil", "husk", "plant", "grass"]}
+{"test_00785": ["symbol", "foliage", "frame", "branch", "wall", "leaf", "window", "plant", "shadow", "grass"]}
+{"test_00090": ["rock", "leaves", "mulch", "plants", "branches", "soil", "trunk", "tree", "wood", "ground", "wire", "alien"]}
+{"test_04928": ["sky", "handle", "path", "fence", "sidewalk", "tree", "tire", "license plate", "window", "car", "ground"]}
+{"test_04386": ["leaf", "plant", "soil", "wood"]}
+{"test_00031": ["chef", "dog", "banner", "airplane", "building", "road", "armadillo", "river", "star", "fruit", "horse", "flag", "guitar", "tree", "clock", "tower", "hat", "butterfly", "cow", "cupcake", "bull", "box", "basket", "glass", "cactus", "bicycle", "statue", "plant", "fish"]}
+{"test_00054": ["court", "cone", "base", "line"]}
+{"test_04628": ["rock", "plant", "carvings", "grass"]}
+{"test_04648": ["radio", "figurine", "panel", "decoration", "shelf", "wall", "speaker", "remote", "cord", "table", "knob"]}
+{"test_02808": ["grill", "reflection", "counter", "display", "paper", "fish"]}
+{"test_03841": ["tongue", "jeans", "book", "sock", "person", "cat", "window"]}
+{"test_03500": ["bubble", "hair", "horse", "water"]}
+{"test_02519": ["shrub", "roof", "railing", "building", "antenna", "road", "pavement", "river", "water", "reflection", "tree", "sign", "wire", "boat", "bush", "car", "pole", "bridge", "hill", "window"]}
+{"test_03338": ["chair", "panel", "stone", "fence", "ground", "grass"]}
+{"test_03879": ["rack", "mannequin", "picture", "skirt", "light", "hoodie", "shelf", "shirt", "mug", "bottle", "pants", "display", "wall", "hat", "cap"]}
+{"test_03474": ["shadow", "ground"]}
+{"test_03941": ["sky", "pole", "fence", "arrow", "tree", "sign", "hill", "cloud", "light", "car", "grass", "wire", "road"]}
+{"test_02713": ["flower", "bench", "soil", "bush", "sidewalk", "tree", "branch", "stem", "grass"]}
+{"test_01476": ["water", "shark", "diver", "bubble", "fish"]}
+{"test_02472": ["duck", "water", "ground", "reflection", "feather", "leaf", "plant", "shadow", "grass"]}
+{"test_01636": ["mark", "stick", "crack"]}
+{"test_00663": ["sky", "field", "seat", "turbine", "armrest", "pole", "bush", "reflection", "tree", "cloud", "rail", "sign", "window", "grass"]}
+{"test_01336": ["door", "hinge", "roof", "grass", "fence", "sidewalk", "wall", "window", "rose", "wire", "knob"]}
+{"test_01832": ["block", "brick", "platform", "rhino", "ground", "grass", "pebble"]}
+{"test_01103": ["hand", "glass", "metal", "tool", "insulation", "frame", "wall", "furnace", "notch", "rod", "bar", "flame", "surface"]}
+{"test_03333": ["hand", "insect", "rock", "sleeve", "shirt", "finger", "ground", "grass"]}
+{"test_01732": ["fender", "body", "axle", "pipe", "wheel", "floor", "truck", "banner", "checkers", "hood", "tire", "wall", "frame", "logo", "window"]}
+{"test_00369": ["wheel", "curb", "tree", "branch", "leaf", "car", "grass", "road"]}
+{"test_03624": ["glass", "board", "liquid", "leaf", "post", "grass"]}
+{"test_04113": ["sky", "sun", "tree", "cloud", "window"]}
+{"test_01723": ["sky", "transformer", "pole", "fence", "building", "ground", "sign", "cloud", "tree", "bush", "tower", "grass", "wire"]}
+{"test_01859": ["sky", "horizon", "cloud", "grass", "road"]}
+{"test_00104": ["text", "shelf", "hook", "bird", "box", "cigarette", "sign", "wood", "sticker", "bottle", "plant"]}
+{"test_03861": ["banana", "table"]}
+{"test_03677": ["text", "building", "grass", "line", "door", "sky", "wheel", "horse", "truck", "rooster", "tree", "man", "wire", "handle", "mirror", "horn", "car", "pole", "cart", "window"]}
+{"test_00195": ["mask", "rod", "brick"]}
+{"test_01455": ["shirt", "dress", "sleeve", "pattern", "ceiling", "chandelier", "shelf", "tie", "display", "bag", "ring", "tile", "wall", "pants", "lamp", "chain", "collar", "stand", "shoes", "mannequin", "heel", "button", "jacket", "watch", "cuff", "light", "window"]}
+{"test_00773": ["tile", "water", "building", "tree", "wall", "fountain", "window"]}
+{"test_02854": ["shrub", "leaves", "rock", "path", "bush", "tree", "bark", "branch", "trash can", "plant", "ground", "grass"]}
+{"test_01675": ["moon", "tree"]}
+{"test_04007": ["ball", "plank"]}
+{"test_01676": ["rock", "flower", "water", "statue", "leaf", "plant", "grass"]}
+{"test_02359": ["skull", "text", "frame", "chart", "tooth", "paper", "image", "table"]}
+{"test_04738": ["rock", "shrub", "fern", "tree", "person", "statue", "grass"]}
+{"test_03593": ["ceiling", "block", "bench", "sculpture", "water", "wall", "statue", "column", "cat", "palm", "fountain", "window", "mural"]}
+{"test_03097": ["curtain", "shelf", "tree", "picture", "window", "car", "rod"]}
+{"test_00633": ["pole", "sidewalk", "curb", "screws", "dirt", "plant", "shadow", "road"]}
+{"test_04987": ["bead", "stand", "metal", "wheel", "floor", "nail", "box", "board", "tool", "tripod", "shovel", "brush", "plank", "wall", "cable", "rod", "leg", "table"]}
+{"test_01621": ["leaf", "rock", "dirt", "toad"]}
+{"test_01353": ["sand", "rock", "debris", "brick", "shadow"]}
+{"test_00078": ["sky", "cloud", "flag", "pole"]}
+{"test_00691": ["rock", "ground", "shovel", "dirt", "wood", "shadow", "grass"]}
+{"test_00164": ["light", "tree", "leaf", "branch"]}
+{"test_04770": ["sky", "water", "building", "raindrop", "bridge", "window"]}
+{"test_04302": ["sky", "rock", "kayak", "paddle", "root", "water", "building", "fence", "bush", "tree", "cloud", "person", "window", "grass", "wire"]}
+{"test_02181": ["floor", "button", "grill", "wall", "toy car", "water fountain"]}
+{"test_03061": ["sky", "needle", "door", "roof", "button", "building", "sign", "sticker", "frame", "window", "spool", "thread"]}
+{"test_01890": ["tent", "sky", "path", "pavement", "ladder", "truck", "plane", "bicycle", "bush", "building", "tree", "person", "container", "plant", "tower", "road"]}
+{"test_00280": ["hand", "bird", "case", "camera", "reflection", "sign", "perch"]}
+{"test_02768": ["chair", "shrub", "mulch", "planter", "soil", "fence", "house", "bush", "sidewalk", "tree", "lamp", "street", "plant", "ground", "grass", "table"]}
+{"test_00859": ["fender", "pavement", "wheel", "vehicle", "curb", "brake", "tire", "shadow", "bolt", "grass"]}
+{"test_02334": ["sky", "roof", "structure", "brick", "net", "railing", "letter", "pole", "beam", "sign", "wall", "graffiti", "light", "bar"]}
+{"test_02180": ["block", "shelf", "dog"]}
+{"test_04493": ["floor", "railing", "shelf", "wall", "carpet", "sofa", "window", "outlets", "table"]}
+{"test_00203": ["pavement", "duck", "water", "curb", "grass"]}
+{"test_04544": ["sky", "path", "shrub", "railing", "fence", "building", "pole", "sidewalk", "tree", "cloud", "bush", "branch", "antenna", "light", "window", "plant", "grass"]}
+{"test_03577": ["stone", "panel", "flower", "carving", "border", "swirl", "leaf"]}
+{"test_03950": ["sky", "fender", "pavement", "headlights", "paper", "line", "mirrors", "truck", "bumper", "windshield", "grille", "headrest", "tire", "sticker", "license", "grass", "wipers"]}
+{"test_01063": ["handle", "leaves", "clip", "grass", "sidewalk", "tree", "dirt", "spout", "strap", "bottle", "sticker", "cap"]}
+{"test_01068": ["pipe", "drain", "water", "building", "reflection", "tree", "cloud", "branch", "wall", "leaf", "window"]}
+{"test_04998": ["reflection", "rope", "water"]}
+{"test_01762": ["jar", "sign", "bulb", "frame", "cat", "wire"]}
+{"test_04215": ["path", "field", "pond", "vehicle", "house", "building", "tree", "parking", "road"]}
+{"test_02167": ["pillar", "fence", "building", "tree", "bridge", "sign", "grass", "road"]}
+{"test_02347": ["sky", "roof", "dog", "pipe", "building", "wall", "slat", "figure", "silhouette", "spike"]}
+{"test_03016": ["caterpillar", "ground"]}
+{"test_00712": ["door", "ceiling", "pipe", "wheel", "license plate", "building", "tree", "wall", "column", "light", "window", "car", "fire extinguisher"]}
+{"test_01284": ["tire track", "crack", "stone", "surface"]}
+{"test_04093": ["sky", "stripe", "crane", "vehicle", "pole", "building", "sign", "cloud", "barrier", "bridge", "lane", "light", "window", "road"]}
+{"test_04748": ["sky", "sun", "tree", "branch"]}
+{"test_00661": ["pavement", "roof", "bus", "text", "support", "advertisement", "truck", "building", "arrow", "sign", "billboard", "lane", "light", "window", "car"]}
+{"test_04524": ["chair", "dog", "floor", "shadow", "toy"]}
+{"test_01247": ["marking", "squirrel", "pavement", "line"]}
+{"test_02685": ["sky", "path", "pavement", "panel", "mailbox", "pole", "tree", "sign", "rail", "shadow", "grass", "road", "line"]}
+{"test_03480": ["sky", "roof", "streetlight", "river", "balcony", "building", "tree", "bridge", "cloud", "antenna", "street", "window", "car", "mural"]}
+{"test_03503": ["insect", "letter", "box"]}
+{"test_04984": ["flower", "soil", "stem", "leaf", "plant", "grass"]}
+{"test_02835": ["ceiling", "glass", "fan", "tree", "wall", "light", "window", "blade", "chain"]}
+{"test_00965": ["helm", "panel", "object", "cork", "metal", "lid", "shelf", "vase", "wall", "bottle", "wood", "plaque", "fish"]}
+{"test_04062": ["ceiling", "space", "aisle", "floor", "grid", "vehicle", "pole", "sign", "barrier", "wall", "column", "light", "car", "line"]}
+{"test_04418": ["roof", "panel", "pipe", "support", "building", "tree", "strap", "frame", "cable"]}
+{"test_00476": ["seaweed", "stone", "vase", "gravel", "statue", "fish"]}
+{"test_03694": ["dirt", "stone", "shadow", "ground"]}
+{"test_01519": ["ceiling", "rack", "glass", "ladder", "brick", "pipe", "chandelier", "shelf", "beam", "book", "bottle", "wall"]}
+{"test_04284": ["sky", "pillar", "seat", "wheel", "armrest", "construction vehicle", "concrete barrier", "dirt", "tree", "sign", "cone", "wire", "car", "steering wheel", "road"]}
+{"test_03119": ["wire", "railing", "water", "pole", "building", "sidewalk", "tree", "bridge", "sign", "fence", "bush", "lane", "light", "lamp", "car", "road"]}
+{"test_00660": ["helicopter", "sky", "cloud"]}
+{"test_04357": ["sky", "stone", "brick", "star", "tree", "frame"]}
+{"test_00681": ["chair", "screen", "mouse", "plug", "monitor", "desk", "keyboard", "pen", "book", "lamp", "computer", "cable", "cat", "wall", "paper"]}
+{"test_03928": ["sky", "roof", "bus", "pole", "building", "fence", "tree", "sign", "lamp", "wire", "window", "road"]}
+{"test_03708": ["wall", "car", "frame"]}
+{"test_01288": ["thorn", "tree", "branch"]}
+{"test_03476": ["truck", "pole", "building", "bush", "tree", "sign", "branch", "window", "ground", "road"]}
+{"test_04558": ["sky", "debris", "pipe", "grass", "building", "hydrant", "leaf", "plant", "ground", "chain"]}
+{"test_02061": ["furniture", "rug", "floor", "shelf", "blanket", "book", "cushion", "wall", "cat", "leg"]}
+{"test_03181": ["leaves", "plants", "text", "ground", "wall", "hole", "paint"]}
+{"test_04543": ["moon", "bird", "wire", "pole"]}
+{"test_04704": ["path", "pole", "tree", "sign", "leaf", "grass"]}
+{"test_04477": ["pavement", "roof", "brick", "pipe", "car", "ground", "pole", "building", "tree", "wall", "leaf", "plant", "gutter", "wire", "mural"]}
+{"test_04041": ["link", "chain", "lock", "ground", "grass"]}
+{"test_01609": ["outlet", "plug", "decoration", "floor", "tile", "mirror", "box", "lamp", "tissue", "frame", "wall", "plant", "paper", "table"]}
+{"test_00406": ["sky", "moon", "door", "rock", "panel", "screw", "pipe", "building", "tube", "wall", "window"]}
+{"test_03869": ["path", "dog", "pole", "dirt", "leaf", "bandana", "grass", "collar"]}
+{"test_01594": ["glass", "mat", "knife", "dish", "meat", "plate", "fork", "nut", "sauce", "potato", "cloth", "greens", "table"]}
+{"test_02294": ["stone", "brick", "star", "beam", "camera", "wall", "ledge"]}
+{"test_01936": ["sky", "window", "statue", "column"]}
+{"test_00621": ["sky", "sculpture", "tree", "branch", "leaf"]}
+{"test_02391": ["sky", "tree", "roof", "bird"]}
+{"test_02029": ["support", "railing", "beam", "ground", "frame", "writing", "bolt"]}
+{"test_02721": ["fabric", "water", "raccoon", "branch", "stem", "leaf"]}
+{"test_04782": ["stem", "leaf", "insect", "flower"]}
+{"test_01792": ["pavement", "sidewalk", "sculpture", "leaf"]}
+{"test_03750": ["sky", "water", "bush", "reflection", "tree", "grass"]}
+{"test_01667": ["trees", "beach", "airplane", "water", "island", "ship"]}
+{"test_04143": ["sky", "chair", "door", "tile", "beam", "fence", "building", "reflection", "cloud", "speaker", "light", "window", "grass", "table"]}
+{"test_01703": ["path", "stone", "bird", "wall", "leaf", "plant", "ground", "grass"]}
+{"test_02222": ["leaf", "tendril", "bud", "flower"]}
+{"test_04027": ["basketball", "insect", "paver"]}
+{"test_03278": ["door", "handle", "path", "sky", "chimney", "building", "bush", "tree", "cloud", "window", "grass"]}
+{"test_04975": ["switch", "object", "shelf", "cabinet", "book", "wall", "frame", "light", "painting"]}
+{"test_02354": ["ceiling", "vent", "pillar", "bone", "clip", "text", "map", "dome", "track", "sign", "exit", "wall", "display", "light", "tusk"]}
+{"test_01929": ["glass", "label", "holder", "toothpick", "box", "bill", "sign", "statue", "spray", "bottle", "paper", "table", "base"]}
+{"test_00021": ["door", "pavement", "wheel", "mirror", "fence", "building", "curb", "tree", "leaf", "window", "car", "grass", "road"]}
+{"test_02551": ["flower", "twig", "leaf", "plant", "pebble"]}
+{"test_02753": ["sky", "clouds", "trees", "pole", "sign", "light"]}
+{"test_01198": ["picture", "arrow", "panel", "text"]}
+{"test_01524": ["vine", "pipe", "fence", "hydrant", "tree", "branch", "leaf", "plant", "ground", "grass"]}
+{"test_02968": ["chair", "leaves", "plants", "spider", "bench", "fence", "skeleton", "pole", "cushion", "sign", "tree", "wood", "wall", "downspout", "log", "hat"]}
+{"test_02611": ["switch", "floor", "cushion", "pot", "wall", "cover", "sofa", "lid", "leg", "table"]}
+{"test_04118": ["gap", "fence", "stain", "plank", "hawk"]}
+{"test_01182": ["rock", "ground"]}
+{"test_03392": ["bark"]}
+{"test_04330": ["sky", "flag", "fence", "pole", "track", "house", "tree", "box", "bush", "train", "container", "grass", "wire"]}
+{"test_03441": ["ceiling", "casing", "pole", "fan", "fixture", "grill", "disk", "bulb", "wire", "socket", "shade"]}
+{"test_04020": ["pavement", "bus", "logo", "bumper", "fence", "tree", "sign", "headlight", "branch", "license", "leaf", "window", "hole", "grass", "road"]}
+{"test_02189": ["path", "bench", "pole", "fence", "water", "bush", "tree", "wall", "bar", "ground", "grass"]}
+{"test_03719": ["rock", "plant", "grass", "water"]}
+{"test_04994": ["floor", "insect", "paper", "paw"]}
+{"test_02840": ["fence", "curb", "sidewalk", "cone", "dirt", "shadow", "grass", "road"]}
+{"test_02541": ["path", "deer", "horse", "bush", "tree", "ground", "grass"]}
+{"test_02284": ["stick", "leaves", "soil", "sidewalk", "curb", "sign", "pot", "ground", "road", "paint"]}
+{"test_00149": ["butterfly", "rock", "soil", "board", "leaf"]}
+{"test_01581": ["shadow", "wall", "dog"]}
+{"test_03220": ["letter", "bird", "swirl", "sign", "light"]}
+{"test_03347": ["circle", "bulb", "letter", "wall"]}
+{"test_00028": ["rock", "whale", "water"]}
+{"test_04462": ["field", "fence", "building", "tree", "pony", "shadow", "grass"]}
+{"test_03935": ["bench", "bicycle", "building", "bush", "sign", "dirt", "tree", "window", "plant", "grass", "table"]}
+{"test_01888": ["fence", "drawing", "number", "sign", "shadow", "bolt", "wire", "line"]}
+{"test_00492": ["screw", "floor", "wall", "wood", "fire", "log", "shadow", "fireplace"]}
+{"test_03386": ["rock", "background", "crystal", "shadow", "surface"]}
+{"test_02060": ["root", "water", "reflection", "tree", "branch", "leaf", "plant", "moss"]}
+{"test_04609": ["door", "pavement", "roof", "pipe", "building", "sidewalk", "reflection", "tree", "bush", "branch", "window", "car"]}
+{"test_01057": ["screw", "text", "chalkboard", "foliage", "bolt", "dirt", "frame", "branch", "leaf", "plant", "ground"]}
+{"test_01108": ["floor", "banner", "equipment", "tire", "wall", "person", "car"]}
+{"test_04834": ["chair", "rug", "floor", "drawer", "wall", "cat", "table"]}
+{"test_01032": ["pavement", "flower", "bench", "building", "pedestal", "wall", "statue", "light", "window", "plant", "table"]}
+{"test_00316": ["sky", "cloud", "bird"]}
+{"test_01915": ["sky", "building", "wall", "light", "window", "tower", "grass"]}
+{"test_04988": ["brick", "text", "sidewalk", "manhole", "leaf", "plant"]}
+{"test_03502": ["sky", "path", "rock", "fence", "bush", "tree", "cloud", "grass"]}
+{"test_00292": ["sky", "ladder", "crane", "wheel", "trailer", "truck", "board", "bird", "building", "sign", "wall", "poster", "window", "ground", "paper"]}
