@@ -1,0 +1,23 @@
+cutoff_len: 4096
+dataset_dir: data
+do_predict: true
+eval_dataset: test_docci500
+finetuning_type: lora
+flash_attn: auto
+max_new_tokens: 1024
+max_samples: 100000
+
+model_name_or_path: saves/qwen2_vl-7b/merged/sft
+adapter_name_or_path: saves/qwen2_vl-7b/lora/sc_coco6k
+output_dir: saves/eval_qwen2vl/sc/docci500
+
+per_device_eval_batch_size: 2
+predict_with_generate: true
+preprocessing_num_workers: 16
+quantization_method: bitsandbytes
+stage: sft
+temperature: 0.95
+template: qwen2_vl
+top_p: 0.7
+correction_instruction: "The previous response is not very good. Please review the objects, attributes and relations in the caption. Remove that not appear in the image and add missing ones in the previous caption. Directly output the final caption: "
+self_correction: True
