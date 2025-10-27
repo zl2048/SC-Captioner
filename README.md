@@ -1,5 +1,5 @@
 <h1>SC-Captioner: Improving Image Captioning with Self-Correction by Reinforcement Learning</h1>
-
+<p><em>International Conference on Computer Vision, ICCV 2025.</em></p>
 [![arXiv](https://img.shields.io/badge/cs.CV-2508.06125-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2508.06125)
 [![Dataset meta](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-Huggingface-yellow)](https://huggingface.co/datasets/zl2048/SC-Captioner-data) 
 
@@ -93,10 +93,12 @@ This repo benefits from [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory
 
 If you find the provided code or models useful for your research, consider citing them as:
 ```
-@article{zhang2025sc,
-  title={SC-Captioner: Improving Image Captioning with Self-Correction by Reinforcement Learning},
-  author={Zhang, Lin and Zeng, Xianfang and Li, Kangcong and Yu, Gang and Chen, Tao},
-  journal={arXiv preprint arXiv:2508.06125},
-  year={2025}
+@InProceedings{zhang2025sc,
+    author    = {Zhang, Lin and Zeng, Xianfang and Li, Kangcong and Yu, Gang and Chen, Tao},
+    title     = {SC-Captioner: Improving Image Captioning with Self-Correction by Reinforcement Learning},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {23145-23155}
 }
 ```
