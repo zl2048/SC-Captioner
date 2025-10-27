@@ -1,5 +1,6 @@
 <h1>SC-Captioner: Improving Image Captioning with Self-Correction by Reinforcement Learning</h1>
 <p><em>International Conference on Computer Vision, ICCV 2025.</em></p>
+
 [![arXiv](https://img.shields.io/badge/cs.CV-2508.06125-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2508.06125)
 [![Dataset meta](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-Huggingface-yellow)](https://huggingface.co/datasets/zl2048/SC-Captioner-data) 
 
